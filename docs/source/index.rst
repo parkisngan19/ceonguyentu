@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+CEO Nguyên Tư - Người Dẫn Dắt V6Bet Thành Sân Chơi Uy Tín Tại Việt Nam
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`CEO Nguyên Tư <https://v6bet.vin/nguyen-tu>`_ là người đứng đầu và dẫn dắt V6Bet, một trong những nền tảng nổi bật tại Việt Nam trong lĩnh vực chơi game trực tuyến. Với nhiều năm kinh nghiệm trong ngành, ông đã xây dựng và phát triển V6Bet thành một nền tảng chơi game uy tín, cung cấp các sản phẩm đa dạng từ thể thao, casino trực tuyến, đến các trò chơi số và esports. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Dưới sự lãnh đạo của CEO Nguyên Tư, V6Bet không chỉ tập trung vào việc cung cấp trải nghiệm chơi game tuyệt vời mà còn chú trọng đến việc bảo mật thông tin người chơi và hỗ trợ khách hàng 24/7. Những chiến lược đổi mới và cải tiến liên tục của ông đã giúp V6Bet trở thành một trong những sự lựa chọn hàng đầu của cộng đồng người chơi Việt Nam.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 135 Liên Khu 4-5, Bình Hưng Hoà B, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0798598710. 
 
-.. toctree::
+Email: contact@v6bet.vin. 
 
-   usage
-   api
+Website: https://v6bet.vin/nguyen-tu 
+
+#nguyentu #ceonguyentu #nguyentu_v6bet
